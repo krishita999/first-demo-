@@ -1,4 +1,4 @@
 # first-demo-
-this is my First Git Repository.
+This is my First Git Repository.
 <br>
 Author- Krishita Singh 
